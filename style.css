@@ -1,0 +1,59 @@
+
+img {
+    width: 420px;
+    height: 350px;
+    object-fit: cover;
+    border: 5px solid cyan;
+    margin: 20px;
+}
+
+.car {
+    border-color: red;
+   border-top-left-radius: 100px;
+   
+}
+.bike{
+    border-bottom: 5px solid black;
+
+
+}
+h3{
+    text-transform:uppercase;
+    text-align: center;
+    background-color: blue;
+    padding: 20px;
+}
+span{
+    color: cyan;
+    font-style: italic;
+}
+.tank{
+    border-bottom: 3px solid cyan;
+}
+.dog{
+    color: purple;
+}
+.snake{
+    color: red;
+}
+.bird{
+    text-decoration: underline;
+}
+.bear{
+    color: blue;
+    text-transform: uppercase;
+    font-style: normal;
+}
+.wolf{
+    border: 3px solid cyan;
+    border-bottom-color: red;
+}
+.tiger{
+    color: purple;
+}
+img{
+    vertical-align: middle;
+}
+.bed{
+    background-color: cyan;
+}
